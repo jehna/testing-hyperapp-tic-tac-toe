@@ -1,0 +1,16 @@
+{
+  "name": "hyperapp-test-tic-tac-toe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^11.3.2"
+  },
+  "prettier": {
+    "semi": false,
+    "trailingComma": "none"
+  },
+  "scripts": {
+    "start": "serve src"
+  }
+}
